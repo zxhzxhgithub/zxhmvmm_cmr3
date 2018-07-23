@@ -1,2 +1,2 @@
 # zxhmvmm_cmr3
-Zhuang, Xiahai's Multivariate Mixture Model for simultaneous registration and segmentation of multi-sequence cardiac MR
+Zhuang, Xiahai's Multivariate Mixture Model for simultaneous registration and segmentation of multi-sequence cardiac MR or multi-source images
